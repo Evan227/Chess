@@ -5,3 +5,5 @@ Moves are executed by first entering the location of the chess piece you want to
 
 ![image](https://user-images.githubusercontent.com/73192772/150706199-af9d8ecf-fe6b-4998-8b3a-188c9efc0af8.png)
 
+In-depth explanation of classes is available in the docs folder in Javadoc format.
+
