@@ -1,4 +1,5 @@
 **Chess Game**
+
 Two-player, Text-based chess game in Java that uses principles of object oriented programming.
 
 Moves are executed by first entering the location of the chess piece you want to move and then where you want to move the piece to.
